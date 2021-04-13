@@ -1,0 +1,12 @@
+C:\Users\ekesmxx\source\repos\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\ekesmxx\source\repos\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Users\ekesmxx\source\repos\matrix\matrix\bin\Debug\matrix.exe
+C:\Users\ekesmxx\source\repos\matrix\matrix\bin\Debug\matrix.pdb
+C:\Users\ekesmxx\source\repos\matrix\matrix\obj\Debug\matrix.exe
+C:\Users\ekesmxx\source\repos\matrix\matrix\obj\Debug\matrix.pdb
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\bin\Debug\matrix.exe
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\bin\Debug\matrix.pdb
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\obj\Debug\matrix.exe
+C:\Kesav\Tallin_RF_Samples\matrix\matrix\obj\Debug\matrix.pdb
